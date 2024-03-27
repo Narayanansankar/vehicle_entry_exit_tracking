@@ -1,0 +1,26 @@
+Daily Report
+
+Private Vehicles:
+Vehicle Number: TN72AU7200
+Reason: to meet principal
+
+Entry Time: Mon Jan 15 22:17:52 2024
+
+Exit Time: Mon Jan 15 22:19:18 2024
+
+
+Vehicle Number: TN72AY7778
+Reason: To meet Principal
+
+Entry Time: Mon Jan 15 22:18:44 2024
+
+Status: Inside
+
+
+College Vehicles:
+23
+Entry Time: Mon Jan 15 22:18:04 2024
+
+Exit Time: Mon Jan 15 22:20:04 2024
+
+
